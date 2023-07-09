@@ -1,6 +1,3 @@
-# Online_Courses
- Online Study
- Courses:
- 1. Machine Learning Engineering for Production (MLOps) Specialization.
- 2. TensorFlow Developer Professional Certificate.
- 
+# Courses:
+1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+2. Convolutional Neural Networks in TensorFlow
