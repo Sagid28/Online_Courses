@@ -11,19 +11,20 @@ I believe in the power of self-paced learning to foster a deeper understanding a
 Throughout my learning journey, I've successfully completed a range of comprehensive courses that have equipped me with valuable insights and practical skills. Some of the notable courses I've undertaken include:
 
 - **Deep Learning Specialization**: Delving into the depths of neural networks and advanced AI techniques, I've gained a solid foundation in deep learning methodologies.
-- **What I've Learned:**
+  
+  **What I've Learned:**
 
-Built and trained deep neural networks, optimizing architecture parameters.
+  -- Built and trained deep neural networks, optimizing architecture parameters.
 
-Worked with test sets, analyzed variance in deep learning applications, and implemented industry-standard techniques and optimization algorithms.
+  -- Worked with test sets, analyzed variance in deep learning applications, and implemented industry-standard techniques and optimization algorithms.
 
-Developed Convolutional Neural Networks (CNNs) for image recognition and applied neural style transfer for artistic image generation.
+  -- Developed Convolutional Neural Networks (CNNs) for image recognition and applied neural style transfer for artistic image generation.
 
-Trained Recurrent Neural Networks (RNNs) for tasks like language modeling, Natural Language Processing (NLP), and Question Answering.
+  -- Trained Recurrent Neural Networks (RNNs) for tasks like language modeling, Natural Language Processing (NLP), and Question Answering.
 
-Utilized HuggingFace tokenizers and transformer models for Named Entity Recognition (NER) and more.
+  -- Utilized HuggingFace tokenizers and transformer models for Named Entity Recognition (NER) and more.
 
-I've developed machine learning project leadership skills, including error diagnosis, prioritization, and mastery of diverse ML scenarios, including complex mismatched data and advanced learning techniques.
+  -- I've developed machine learning project leadership skills, including error diagnosis, prioritization, and mastery of diverse ML scenarios, including complex mismatched data and advanced learning techniques.
 
 - **TensorFlow Developer Professional Certificate**: This rigorous certification has solidified my proficiency in TensorFlow, enabling me to build and deploy machine learning models effectively.
 
