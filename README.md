@@ -18,7 +18,7 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
   -- Worked with test sets, analyzed variance in deep learning applications, and implemented industry-standard techniques and optimization algorithms.
 
-  -- Developed Convolutional Neural Networks (CNNs) for image recognition and applied neural style transfer for artistic image generation.
+  -- Developed Convolutional Neural Networks (CNNs) for image classification, object detection, face recognization and applied neural style transfer for artistic image generation.
 
   -- Trained Recurrent Neural Networks (RNNs) for tasks like language modeling, Natural Language Processing (NLP), and Question Answering.
 
