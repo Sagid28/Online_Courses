@@ -18,7 +18,7 @@ Welcome to the DeepLearning.AI TensorFlow Developer Professional Certificate Por
 - Transfer Learning with Pretrained Models
 - Multiclass Classification
 
-**What I've Learned:**
+## Key Skills Acquired:
 
 Throughout this specialization, I've gained valuable skills, including:
 
