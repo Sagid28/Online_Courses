@@ -28,6 +28,22 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
 - **TensorFlow Developer Professional Certificate**: This rigorous certification has solidified my proficiency in TensorFlow, enabling me to build and deploy machine learning models effectively.
 
+  **What I've Learned:**
+
+-- Best practices for utilizing TensorFlow
+
+-- Building and training neural networks
+
+-- Image classification techniques
+
+-- Convolutional Neural Network (ConvNet) strategies
+
+-- Overcoming overfitting and image augmentation
+
+-- Leveraging transfer learning for enhanced model performance
+
+-- Handling complex images with convolutions
+
 - **Machine Learning Engineering for Production (MLOps) Specialization**: I've explored the intricate process of deploying machine learning models into production, a vital aspect of real-world applications.
 
 - **Python 3 Programming Specialization**: Mastery of Python, the language at the heart of AI and data manipulation, has become an integral part of my skill set.
