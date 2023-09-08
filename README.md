@@ -12,7 +12,7 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
 - **Deep Learning Specialization**: Delving into the depths of neural networks and advanced AI techniques, I've gained a solid foundation in deep learning methodologies.
   
-  **What I've Learned:**
+  **Key Skills Acquired:**
 
   -- Built and trained deep neural networks, optimizing architecture parameters.
 
@@ -28,7 +28,7 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
 - **TensorFlow Developer Professional Certificate**: This rigorous certification has solidified my proficiency in TensorFlow, enabling me to build and deploy machine learning models effectively.
 
-  **What I've Learned:**
+  **Key Skills Acquired:**
 
 -- Best practices for utilizing TensorFlow
 
