@@ -49,7 +49,7 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
 - **Machine Learning Engineering for Production (MLOps) Specialization**: I've explored the intricate process of deploying machine learning models into production, a vital aspect of real-world applications.
 
-  **Key Skills Acquired**
+  **Key Skills Acquired:**
 
   -- Data Pipelines: Skill in building and managing data pipelines. 
 
@@ -63,7 +63,7 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
 - **Object Detection with Amazon Sagemaker**: I've acquired hands-on experience in object detection, a critical aspect of computer vision applications.
 
-   **Key Skills Acquired**
+  **Key Skills Acquired:**
   
   -- Preparing data for SageMaker Object Detection.
 
@@ -71,6 +71,18 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
   -- Deploying a trained model using SageMaker
 
+- **MLOps Platforms: Amazon SageMaker and Azure ML**:
+  
+   **Key Skills Acquired:**
+
+    -- Exploring data engineering with AWS technology.
+  
+    -- Gaining fundamental data science skills within the AWS ecosystem.
+  
+    -- Learning about machine learning models and their implementation on AWS.
+  
+    -- Understanding MLOps and deploying machine learning models in production using AWS.
+      
 - **Python 3 Programming Specialization**: Mastery of Python, the language at the heart of AI and data manipulation, has become an integral part of my skill set.
 
 - **Mathematics for Machine Learning Specialization**: Strengthening my mathematical foundation has enabled me to comprehend and develop sophisticated algorithms with confidence.
