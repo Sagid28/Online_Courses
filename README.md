@@ -82,8 +82,8 @@ Throughout my learning journey, I've successfully completed a range of comprehen
     -- Learning about machine learning models and their implementation on AWS.
   
     -- Understanding MLOps and deploying machine learning models in production using AWS.
-  
-  **MLOps Tools: MLflow and Hugging Face:**
+
+  - **MLOps Tools: MLflow and Hugging Face:**
 
     **Key Skills Acquired:**
     
