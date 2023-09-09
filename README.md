@@ -71,7 +71,7 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
   -- Deploying a trained model using SageMaker
 
-- **MLOps Platforms: Amazon SageMaker and Azure ML**:
+- **MLOps Platforms: Amazon SageMaker and Azure ML:**
   
    **Key Skills Acquired:**
 
@@ -82,7 +82,21 @@ Throughout my learning journey, I've successfully completed a range of comprehen
     -- Learning about machine learning models and their implementation on AWS.
   
     -- Understanding MLOps and deploying machine learning models in production using AWS.
-      
+  
+  **MLOps Tools: MLflow and Hugging Face:**
+
+    **Key Skills Acquired:**
+    
+    -- Create new MLflow projects to develop and register models.
+    
+    -- Utilize Hugging Face models and datasets to construct custom APIs.
+    
+    -- Harness the power of FastAPI to create interactive HTTP API endpoints.
+    
+    -- Package and seamlessly deploy Hugging Face models to the Cloud with automation.
+    
+    -- Fine-tune Hugging Face models for specific tasks.
+    
 - **Python 3 Programming Specialization**: Mastery of Python, the language at the heart of AI and data manipulation, has become an integral part of my skill set.
 
 - **Mathematics for Machine Learning Specialization**: Strengthening my mathematical foundation has enabled me to comprehend and develop sophisticated algorithms with confidence.
