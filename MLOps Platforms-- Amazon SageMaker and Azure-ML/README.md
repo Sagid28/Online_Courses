@@ -12,7 +12,7 @@ Week 2: Develop foundational data science skills using AWS technology. Master da
 
 Week 3: Immerse yourself in the realm of machine learning models with AWS technology. Explore model selection, excel in hyperparameter tuning, conduct model training on the platform, and expertly evaluate your machine learning models.
 
-Week 4: Unlock the potential of MLOps with AWS, the critical phase in deploying machine learning solutions into production. Topics include operationalizing machine learning models, making resource allocation decisions between CPU and GPU, and efficiently deploying and maintaining your models.
+Week 4: Unlock the potential of MLOps with AWS, the critical phase in deploying machine learning solutions into production. Topics include operationalizing machine learning models, making resource allocation decisions between CPU and GPU, and efficiently deploying and maintaining our models.
 
 Week 5: Expand your horizons as you explore data and machine learning on another leading cloud-based platform: Azure ML.
 
