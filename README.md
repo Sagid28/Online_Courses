@@ -83,19 +83,19 @@ Throughout my learning journey, I've successfully completed a range of comprehen
   
     -- Understanding MLOps and deploying machine learning models in production using AWS.
 
- - **MLOps Tools: MLflow and Hugging Face:**
+- **MLOps Tools: MLflow and Hugging Face:**
 
-    **Key Skills Acquired:**
+  **Key Skills Acquired:**
     
-    -- Create new MLflow projects to develop and register models.
+  -- Create new MLflow projects to develop and register models.
     
-    -- Utilize Hugging Face models and datasets to construct custom APIs.
+   -- Utilize Hugging Face models and datasets to construct custom APIs.
     
-    -- Harness the power of FastAPI to create interactive HTTP API endpoints.
+  -- Harness the power of FastAPI to create interactive HTTP API endpoints.
     
-    -- Package and seamlessly deploy Hugging Face models to the Cloud with automation.
+  -- Package and seamlessly deploy Hugging Face models to the Cloud with automation.
     
-    -- Fine-tune Hugging Face models for specific tasks.
+  -- Fine-tune Hugging Face models for specific tasks.
     
 - **Python 3 Programming Specialization**: Mastery of Python, the language at the heart of AI and data manipulation, has become an integral part of my skill set.
 
