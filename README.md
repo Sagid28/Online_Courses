@@ -14,54 +14,64 @@ Throughout my learning journey, I've successfully completed a range of comprehen
   
   **Key Skills Acquired:**
 
-  -- Built and trained deep neural networks, optimizing architecture parameters.
+    -- Built and trained deep neural networks, optimizing architecture parameters.
 
-  -- Worked with test sets, analyzed variance in deep learning applications, and implemented industry-standard techniques and optimization algorithms.
+   -- Worked with test sets, analyzed variance in deep learning applications, and implemented industry-standard techniques and optimization algorithms.
 
-  -- Developed Convolutional Neural Networks (CNNs) for image classification, object detection, face recognization and applied neural style transfer for artistic image generation.
+   -- Developed Convolutional Neural Networks (CNNs) for image classification, object detection, face recognition and applied neural style transfer for artistic image 
+       generation.
 
-  -- Trained Recurrent Neural Networks (RNNs) for tasks like language modeling, Natural Language Processing (NLP), and Question Answering.
+   -- Trained Recurrent Neural Networks (RNNs) for tasks like language modeling, Natural Language Processing (NLP), and Question Answering.
 
-  -- Utilized HuggingFace tokenizers and transformer models for Named Entity Recognition (NER) and more.
+   -- Utilized HuggingFace tokenizers and transformer models for Named Entity Recognition (NER) and more.
 
-  -- I've developed machine learning project leadership skills, including error diagnosis, prioritization, and mastery of diverse ML scenarios, including complex mismatched data and advanced learning techniques.
+   -- I've developed machine learning project leadership skills, including error diagnosis, prioritization, and mastery of diverse ML scenarios, including complex mismatched 
+       data and advanced learning techniques.
 
-- **TensorFlow Developer Professional Certificate**: This rigorous certification has solidified my proficiency in TensorFlow, enabling me to build and deploy machine learning models effectively.
+- **TensorFlow Developer Professional Certificate**: This rigorous certification has solidified my proficiency in TensorFlow, enabling me to build and deploy machine learning 
+    models effectively.
 
   **Key Skills Acquired:**
 
--- Best practices for utilizing TensorFlow
+    -- Best practices for utilizing TensorFlow
 
--- Building and training neural networks
+    -- Building and training neural networks
 
--- Image classification techniques
+  -- Image classification techniques
 
--- Convolutional Neural Network (ConvNet) strategies
+  -- Convolutional Neural Network (ConvNet) strategies
 
--- Overcoming overfitting and image augmentation
+  -- Overcoming overfitting and image augmentation
 
--- Leveraging transfer learning for enhanced model performance
+  -- Leveraging transfer learning for enhanced model performance
 
--- Handling complex images with convolutions
+  -- Handling complex images with convolutions
 
 - **Machine Learning Engineering for Production (MLOps) Specialization**: I've explored the intricate process of deploying machine learning models into production, a vital aspect of real-world applications.
 
   **Key Skills Acquired**
 
--- Data Pipelines: Skill in building and managing data pipelines. 
+  -- Data Pipelines: Skill in building and managing data pipelines. 
 
--- Model Pipelines: Proficiency in orchestrating model pipelines for efficient model deployment.
+  -- Model Pipelines: Proficiency in orchestrating model pipelines for efficient model deployment.
 
--- Deployment Pipelines: Expertise in crafting robust deployment pipelines.
+  -- Deployment Pipelines: Expertise in crafting robust deployment pipelines.
 
--- Managing ML Production Systems: Mastery in handling machine learning production systems.
+  -- Managing ML Production Systems: Mastery in handling machine learning production systems.
 
--- MLOps Expertise: Knowledge and experience in Machine Learning Engineering for Production.
-
-
-- **Python 3 Programming Specialization**: Mastery of Python, the language at the heart of AI and data manipulation, has become an integral part of my skill set.
+  -- MLOps Expertise: Knowledge and experience in Machine Learning Engineering for Production.
 
 - **Object Detection with Amazon Sagemaker**: I've acquired hands-on experience in object detection, a critical aspect of computer vision applications.
+
+   **Key Skills Acquired**
+  
+  -- Preparing data for SageMaker Object Detection.
+
+  -- Training a model using SageMaker.
+
+  -- Deploying a trained model using SageMaker
+
+- **Python 3 Programming Specialization**: Mastery of Python, the language at the heart of AI and data manipulation, has become an integral part of my skill set.
 
 - **Mathematics for Machine Learning Specialization**: Strengthening my mathematical foundation has enabled me to comprehend and develop sophisticated algorithms with confidence.
 
