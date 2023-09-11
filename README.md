@@ -102,6 +102,18 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 - **Mathematics for Machine Learning Specialization**: Strengthening my mathematical foundation has enabled me to comprehend and develop sophisticated algorithms with confidence.
 
 - **TensorFlow 2 for Deep Learning Specialization**: This specialization has deepened my understanding of TensorFlow 2.x, enhancing my ability to create advanced deep learning models.
+  
+   **Key Skills Acquired:**
+
+  -- Building and Training Models: Learn to construct, train, evaluate, and predict with deep learning models using TensorFlow's Sequential API.
+
+  -- Model Validation and Regularization: Understand the importance of model validation and regularization techniques to enhance model performance.
+
+  -- Callbacks and Model Management: Implement callbacks and discover how to save and load models efficiently.
+
+  -- Hands-On Practice: Put your knowledge into practice with hands-on coding tutorials and programming assignments guided by a graduate teaching assistant.
+
+  -- Capstone Project: Showcase your skills by creating an image classifier deep learning model from scratch in the course's culminating Capstone Project.
 
 - **Coding for Everyone: C and C++ Specialization**: A strong grasp of programming languages like C and C++ has expanded my horizons in software development.
 
