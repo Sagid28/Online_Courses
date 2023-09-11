@@ -97,9 +97,7 @@ Throughout my learning journey, I've successfully completed a range of comprehen
     
   -- Fine-tune Hugging Face models for specific tasks.
     
-- **Python 3 Programming Specialization**: Mastery of Python, the language at the heart of AI and data manipulation, has become an integral part of my skill set.
 
-- **Mathematics for Machine Learning Specialization**: Strengthening my mathematical foundation has enabled me to comprehend and develop sophisticated algorithms with confidence.
 
 - **TensorFlow 2 for Deep Learning Specialization**: This specialization has deepened my understanding of TensorFlow 2.x, enhancing my ability to create advanced deep learning models.
   
@@ -115,15 +113,170 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
   -- Capstone Project: Showcase your skills by creating an image classifier deep learning model from scratch in the course's culminating Capstone Project.
 
-- **Coding for Everyone: C and C++ Specialization**: A strong grasp of programming languages like C and C++ has expanded my horizons in software development.
-
-- **An Introduction to Programming the Internet of Things (IoT) Specialization**: Exploring the world of IoT has opened new opportunities for me to innovate and create connected devices.
-
 - **Python for Computer Vision with OpenCV and Deep Learning**: I've harnessed the power of computer vision through practical projects, broadening my capabilities in image analysis.
+  
+  **Key Skills Acquired:**
+
+  -- Basics of NumPy.
+
+  -- Image manipulation and processing using NumPy.
+
+  -- Working with image files using OpenCV.
+
+  -- Drawing shapes on images and videos with Python and OpenCV.
+
+  -- Various image manipulation techniques with OpenCV, including smoothing, blurring, thresholding, and morphological operations.
+
+  -- Creating color histograms with OpenCV.
+
+  -- Object detection methods, including corner, edge, and grid detection using OpenCV and Python.
+
+  -- Image segmentation using the Watershed Algorithm
+
+  -- Building image classifiers using Python and Deep Learning.
+
+  -- Training custom image classifiers with Tensorflow, Keras, and Python.
 
 - **Master Computer Vision OpenCV4 in Python with Deep Learning**: This course has taken my computer vision expertise to the next level, equipping me with advanced OpenCV skills.
 
+  **Key Skills Acquired:**
+
+  -- Programming skills in Python and Numpy.
+
+  -- OpenCV4 proficiency in Python.
+
+  -- Fundamentals of Computer Vision and Image Processing.
+
+  -- Application of Computer Vision in startup projects.
+
+  -- Understanding of Neural and Convolutional Neural Networks.
+
+  -- Deep Learning with Keras & TensorFlow.
+
+  -- Face detection and recognition using DLIB.
+
+  -- Building image classifiers.
+
+  -- Object detection.
+
+- **Mathematics for Machine Learning Specialization**: Strengthening my mathematical foundation has enabled me to comprehend and develop sophisticated algorithms with confidence.
+
+  **Key Skills Acquired:**
+
+  -- Understanding of linear algebra and its application in data science.
+  
+  -- Proficiency in working with vectors and matrices.
+
+  -- Knowledge of eigenvalues and eigenvectors and their use in problem-solving.
+
+  -- Ability to apply linear algebra concepts to data analysis and manipulation.
+
+  -- Introduction to multivariate calculus and its relevance in machine learning.
+
+  -- Understanding of gradient functions and their applications.
+
+  -- Calculating vectors on multidimensional surfaces.
+
+  -- Building approximations to functions and assessing their accuracy.
+
+  -- Insight into the role of calculus in neural network training.
+
+  -- Application of calculus in linear regression models.
+
+  -- Confidence in tackling more advanced machine learning courses.
+
 - **Data Scientist with Python Track**: A comprehensive track covering various aspects of data science, solidifying my role as a versatile data practitioner.
+  
+
+  **Key Skills Acquired:**
+
+  -- Python proficiency for data science.
+
+  -- Data manipulation and cleaning techniques.
+
+  -- Data visualization using libraries like pandas, Seaborn, and Matplotlib.
+
+  -- Statistical analysis, including hypothesis testing.
+
+  -- Building predictive models with scikit-learn.
+
+  -- Practical experience with real-world datasets and projects.
+
+- **Python 3 Programming Specialization**: Mastery of Python, the language at the heart of AI and data manipulation, has become an integral part of my skill set.
+
+  **Key Skills Acquired:**
+  
+    -- Fundamentals of Python 3 programming, including variables, conditionals, and loops.
+
+    -- Proficiency in Python control structures, such as conditional execution and iteration.
+
+    -- Understanding of data structures like strings and lists in Python.
+
+    -- Debugging skills for Python programs.
+
+    -- Ability to work with Internet APIs for data retrieval and information extraction.
+
+    -- Knowledge of reading documentation to use new modules and APIs.
+
+    -- Advanced Python concepts, including dictionaries, user-defined functions, and lambda expressions.
+
+    -- Skills in working with local and global variables.
+
+    -- Understanding of Python's sorted function and customization of sorting.
+
+    -- Data processing from services on the Internet, including nested data extraction.
+
+    -- Interaction with REST APIs using the Python requests module.
+
+    -- Object-oriented programming concepts, including classes, instances, and inheritance.
+
+    -- Designing and writing automated tests for code.
+
+- **An Introduction to Programming the Internet of Things (IoT) Specialization**: Exploring the world of IoT has opened new opportunities for me to innovate and create connected devices.
+
+  **Key Skills Acquired:**
+  
+    -- Understanding the concept of the "Internet of Things" (IoT).
+  
+    -- Identifying technological trends driving IoT adoption.
+  
+    -- Recognizing the societal impact of IoT.
+  
+    -- Defining embedded systems and their interfaces.
+  
+    -- Enumerating and describing components of embedded systems.
+  
+    -- Understanding how embedded systems interact with the physical world.
+  
+    -- Identifying core hardware components commonly used in IoT devices.
+  
+    -- Describing the interaction between software and hardware in IoT.
+  
+    -- Explaining the role of an operating system in supporting IoT software.
+   
+    -- Understanding networking and basic networking hardware for IoT.
+  
+    -- Describing the structure of the Internet.
+  
+    -- Explaining the concept of a "network protocol."
+  
+    -- Understanding Mobile Ad-Hoc Networks (MANETs) and their relevance to IoT.
+
+- **Coding for Everyone: C and C++ Specialization**: A strong grasp of programming languages like C and C++ has expanded my horizons in software development.
+  
+  **Key Skills Acquired:**
+
+  -- Writing simple programs in C.
+  
+  -- Compiling, debugging, and running C programs.
+  
+  -- Applying concepts related to arrays and pointers in C.
+  
+  -- Understanding functions and storage classes in C.
+  
+  -- Working with logic operators and various question types in C.
+  
+  -- Handling lexical elements and data types in C.
 
 ## Unending Learning Journey
 
