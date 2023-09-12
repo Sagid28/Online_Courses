@@ -47,7 +47,7 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
   -- Handling complex images with convolutions
 
-- **Machine Learning Engineering for Production (MLOps) Specialization**: I've explored the intricate process of deploying machine learning models into production, a vital aspect of real-world applications.
+- **Machine Learning Engineering for Production (MLOps) Specialization:** I've explored the intricate process of deploying machine learning models into production, a vital aspect of real-world applications.
 
   **Key Skills Acquired:**
 
@@ -71,7 +71,8 @@ Throughout my learning journey, I've successfully completed a range of comprehen
 
   -- Deploying a trained model using SageMaker
 
-- **MLOps Platforms: Amazon SageMaker and Azure ML:**
+- **MLOps Platforms: Amazon SageMaker and Azure ML:** Achieved knowledge in AWS SageMaker, excelling in data engineering within the AWS cloud ecosystem for deploying machine 
+    learning models efficiently.
   
    **Key Skills Acquired:**
 
@@ -83,7 +84,8 @@ Throughout my learning journey, I've successfully completed a range of comprehen
   
     -- Understanding MLOps and deploying machine learning models in production using AWS.
 
-- **MLOps Tools: MLflow and Hugging Face:**
+- **MLOps Tools: MLflow and Hugging Face:** I gained knowledge about MLflow and Hugging Face, developing, registering, and deploying machine learning models with automation. 
+   This course enhanced my MLOps skills, including FastAPI for interactive endpoints and fine-tuning Hugging Face models.
 
   **Key Skills Acquired:**
     

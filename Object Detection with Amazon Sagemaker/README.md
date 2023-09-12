@@ -33,7 +33,7 @@ This course provides hands-on experience in training and deploying an object det
 Please Note: This course focuses on the practical aspects of the project and does not delve into the theoretical foundations of deep learning-based SSD or Object Detection. Instead, the primary emphasis is on effectively training and deploying a model using SageMaker. Prior experience with Amazon Web Services (AWS) will be beneficial.
 
 
-## Learn3e Step-by-Step
+## Learn Step-by-Step
 
 Throughout this project, I was guided step-by-step through the following processes:
 
